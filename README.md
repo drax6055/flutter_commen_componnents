@@ -82,7 +82,7 @@ lib/
 
 | Feature         | Screenshot |
 |------------------|------------|
-| Image Picker     | ![Image Picker](https://as2.ftcdn.net/v2/jpg/03/17/25/45/1000_F_317254576_lKDALRrvGoBr7gQSa1k4kJBx7O2D15dc.jpg) |
+| Image Picker     | ![Image Picker](path/to/file_picker_screenshot.png) |
 | File Picker      | ![File Picker](path/to/file_picker_screenshot.png) |
 | Date Picker      | ![Date Picker](path/to/date_picker_screenshot.png) |
 | Time Picker      | ![Time Picker](path/to/time_picker_screenshot.png) |
